@@ -1,0 +1,33 @@
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\App.g.cs
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\Sudoku_MarkupCompile.cache
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\MainWindow.baml
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\MainWindow.g.cs
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\Sudoku.g.resources
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\Sudoku.Properties.Resources.resources
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\Sudoku.csproj.GenerateResource.Cache
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\Sudoku.exe
+C:\Users\This\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Release\Sudoku.pdb
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\MainWindow.baml
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\MainWindow.g.cs
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\App.g.cs
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\Sudoku_MarkupCompile.cache
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\Sudoku.g.resources
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\Sudoku.Properties.Resources.resources
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\Sudoku.csproj.GenerateResource.Cache
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\Sudoku.exe
+C:\Users\This\Desktop\PrimerCas4\Sudoku\Sudoku\obj\x86\Release\Sudoku.pdb
+C:\Users\This\Desktop\Sudoku\Sudoku\bin\Release\Sudoku.exe
+C:\Users\This\Desktop\Sudoku\Sudoku\bin\Release\Sudoku.pdb
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\MainWindow.baml
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\MainWindow.g.cs
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\App.g.cs
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\Sudoku_MarkupCompile.cache
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\Sudoku.g.resources
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\Sudoku.Properties.Resources.resources
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\Sudoku.csproj.GenerateResource.Cache
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\Sudoku.exe
+C:\Users\This\Desktop\Sudoku\Sudoku\obj\x86\Release\Sudoku.pdb
